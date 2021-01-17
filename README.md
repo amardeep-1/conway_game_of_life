@@ -1,4 +1,4 @@
-#Conway's Game of Life
+# Conway's Game of Life
 This program is conways game of life
 
 compile using:
